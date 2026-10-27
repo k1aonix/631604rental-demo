@@ -1,0 +1,11 @@
+{
+  "version": "2.13",
+  "entry": "index.html",
+  "html_sha256": "384cad09dd8f529588f1a360a75ed1a433c2ce2575f47e5bd51f464f347f0732",
+  "html_git_blob_sha": "55fe7412ac8c23268f6653ac70a83315eb5579bf",
+  "bytes": 2549889,
+  "notes": 34,
+  "contracts": 18,
+  "fully_fictional": true,
+  "local_browser_storage": true
+}
